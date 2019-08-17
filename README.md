@@ -11,4 +11,7 @@ Once the environment is ready use the following commands to run the app:
   - Clone the repo of the app, run ``` npm i ``` or ```yarn``` in the root directory using your shell
   - Run ```react-native run-android```
   
+  
+  
+App (early access) is currently available at https://play.google.com/store/apps/details?id=com.effisense
  
